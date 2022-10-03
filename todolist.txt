@@ -1,0 +1,12 @@
+MY TO-DO LIST
+ 
+ A. Write an srticle
+ B. Code
+ C. Study books
+ D. Attend classes on time
+ E. Visit aunt
+ F. Apply for remote jobs. a small detour about GitHub
+
+- Github is an online hosting service for Git repositories
+- it enables remote management of git projects
+- GitHub lets you store your repo on their platform 	   
