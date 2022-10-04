@@ -12,4 +12,5 @@ MY TO-DO LIST
 - GitHub lets you store your repo on their platform
 - Add more detail here for the GiLab 
 - Add even more changes for the Gitlab
-- 3rd lot of changes for testing Gitlab	   
+- 3rd lot of changes for testing Gitlab	
+- Changes made on remote
