@@ -9,4 +9,5 @@ MY TO-DO LIST
 
 - Github is an online hosting service for Git repositories
 - it enables remote management of git projects
-- GitHub lets you store your repo on their platform 	   
+- GitHub lets you store your repo on their platform
+- Add more detail here for the GiLab 	   
